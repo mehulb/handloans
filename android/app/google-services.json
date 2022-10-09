@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "15893194596",
+    "project_id": "m3hulb",
+    "storage_bucket": "m3hulb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15893194596:android:76813877ea9a93dcd7fc71",
+        "android_client_info": {
+          "package_name": "com.example.handloans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15893194596-jh0ehkhfr4jjoudbe1as93db1e7pu5cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwP3gDD8SGk_UXQmuh4EUk_Ue4J_1A6Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15893194596-jh0ehkhfr4jjoudbe1as93db1e7pu5cb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "15893194596-n4fqrh0sffti11j3rn1j14rcil10p995.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.handloans"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
